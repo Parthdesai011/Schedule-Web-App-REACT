@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Canada day",
+      "day": "July 1st",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Boxing day",
+      "day": "December 26th",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Good Friday",
+      "day": "April 15th",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Thanksgiving",
+      "day": "October 26th",
+      "reminder": true
+    },
+    {
+      "text": "Christmas",
+      "day": "December 25th",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}
