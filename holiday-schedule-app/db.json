@@ -27,7 +27,7 @@
     {
       "text": "Christmas",
       "day": "December 25th",
-      "reminder": false,
+      "reminder": true,
       "id": 5
     }
   ]
